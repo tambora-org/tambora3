@@ -1,3 +1,4 @@
+secrets/*
 assets/*
 !assets/.gitignore
 protected/runtime/*
